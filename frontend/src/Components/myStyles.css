@@ -1,5 +1,13 @@
-.main-container{
-    background-color: #f4f5f8;
-    height: 90vh;
-    width: 90vh;
+.main-container {
+  background-color: #f4f5f8;
+  height: 90vh;
+  width: 90vh;
+}
+
+.sidebar-container {
+  background-color: #3f4e78;
+}
+
+.workarea-container {
+  background-color: #d8aab7;
 }

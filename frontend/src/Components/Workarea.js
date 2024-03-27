@@ -2,7 +2,7 @@ import React from 'react'
 
 function Workarea() {
   return (
-    <div>Workarea</div>
+    <div className='workarea-container'>Workarea</div>
   )
 }
 
